@@ -13,6 +13,7 @@ fi
 
 echo ${bdate}
 
+#suchu
 bhdate=$(date --date="${bddate}" +%s)
 
 echo ${bhdate} 
